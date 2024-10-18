@@ -21,4 +21,11 @@ FUTURE WORKS
 
 - The given model can be improved by implementing Transformer based MIL (TransMIL).
 - Multiple Instance Learning ignores the correlation between different instances. To address this issue, TransMIL seeks both spatial and morphological features between the instances.
+
+![stain1](https://github.com/NithinGopal64/BreastCancerClassification/blob/main/image1.png?raw=true)
+![stain2](https://github.com/NithinGopal64/BreastCancerClassification/blob/main/image2.png?raw=true)
+![stain3](https://github.com/NithinGopal64/BreastCancerClassification/blob/main/image3.png?raw=true)
+
 # BreastCancerClassification
+
+
